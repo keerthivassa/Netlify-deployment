@@ -5,7 +5,8 @@ body{
 .box-part {
     background-color: whitesmoke;
     padding: 50px 10px;
-    margin:30px 0px;
+    margin: 30px 10px;
+
 }
 
 .fa {
@@ -21,5 +22,37 @@ p {
 }
 
 .box {
-    padding: 60px 0px;
+    padding: 60px 0px
+}
+
+.box-part1 {
+
+    background-color: whitesmoke;
+    padding: 50px 10px;
+    margin: 30px 10px;
+
+}
+
+.box-part2 {
+    background-color: whitesmoke;
+    padding: 50px 10px;
+    margin: 30px 10px;
+}
+
+.box-part3 {
+    background-color: whitesmoke;
+    padding: 50px 10px;
+    margin : 30px 10px;
+}
+
+.box-part4 {
+    background-color: whitesmoke;
+    padding: 50px 10px;
+    margin: 30px 10px;
+}
+
+.box-part5 {
+    background-color: whitesmoke;
+    padding: 50px 10px;
+    margin: 30px 10px;
 }
